@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ![country](https://img.shields.io/badge/🌐%20%20country-France-blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martin-olivier&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/martin-olivier.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/martin-olivier?tab=followers)
 
 ## Languages and Tools
